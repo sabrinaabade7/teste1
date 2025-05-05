@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 465ff226ca471464084354c3aadd37ec
+guid: 55e67768b0437cb4086593cb38367df9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7522703471914652223
-    second: planta 1_0
+      213: 5355485844170531499
+    second: ervilhaT_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: planta 1_0
+      name: ervilhaT_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 221
-        height: 228
+        x: 228
+        y: 210
+        width: 145
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f32121263f2066860800000000000000
-      internalID: 7522703471914652223
+      spriteID: ba2ea6d2002825a40800000000000000
+      internalID: 5355485844170531499
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      planta 1_0: 7522703471914652223
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
