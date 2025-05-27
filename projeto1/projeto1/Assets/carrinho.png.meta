@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 70a7c572b09ec044b9007ff78e6594ff
+guid: da4b29bcebb743c4d9097e85000deecf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5060087331715072369
-    second: planta1_0
+      213: -6525084921882235707
+    second: carrinho_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: planta1_0
+      name: carrinho_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 820
-        height: 885
+        x: 28
+        y: 90
+        width: 584
+        height: 208
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 171c4536e9a093640800000000000000
-      internalID: 5060087331715072369
+      spriteID: 5cca3fdb5dd3275a0800000000000000
+      internalID: -6525084921882235707
       vertices: []
       indices: 
       edges: []

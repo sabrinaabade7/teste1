@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ce8aec0e07fb7b8459d82ca7311dfc39
+guid: d40feaed00b71f844bfaf0eebc56020b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8024482095746440061
-    second: zombie de terno.png~_0
+      213: 6123241930442303389
+    second: riuretv_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: zombie de terno.png~_0
+      name: riuretv_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 3
-        width: 492
-        height: 799
+        x: 0
+        y: 0
+        width: 2480
+        height: 3508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7bd27753ffac5f60800000000000000
-      internalID: 8024482095746440061
+      spriteID: d976ac9e7102af450800000000000000
+      internalID: 6123241930442303389
       vertices: []
       indices: 
       edges: []
