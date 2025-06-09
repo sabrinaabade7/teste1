@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class player : MonoBehaviour
+public class Player : MonoBehaviour
 {
     private int numero;
     public float velocidade = 40;

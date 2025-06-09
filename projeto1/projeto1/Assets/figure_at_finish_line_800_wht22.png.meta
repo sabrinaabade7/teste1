@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47e0a4bb43bd8134d85aa9bd6141bfee
+guid: d91fb1df28debf643839dbb4698fe01d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3708970217427494758
-    second: transporte-de-carro-esporte-amarelo_0
+      213: -3409839564544952250
+    second: figure_at_finish_line_800_wht22_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: transporte-de-carro-esporte-amarelo_0
+      name: figure_at_finish_line_800_wht22_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 194
-        width: 472
-        height: 124
+        x: 43
+        y: 122
+        width: 255
+        height: 649
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a981bbbfc37178cc0800000000000000
-      internalID: -3708970217427494758
+      spriteID: 648b93e6bf0dda0d0800000000000000
+      internalID: -3409839564544952250
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      transporte-de-carro-esporte-amarelo_0: -3708970217427494758
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
