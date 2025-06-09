@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:projeto1/projeto1/Assets/roda.png.meta
-guid: a2b3dca5d7717f84e9ffa710a648396b
+guid: f03106b40b16f7443a50a54cd98e5140
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 931618238679285206
-    second: roda_0
-========
-guid: d40feaed00b71f844bfaf0eebc56020b
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 6123241930442303389
-    second: riuretv_0
->>>>>>>> e755a658e512a87cadf497d0b4d1265c8ab5ba99:projeto1/projeto1/Assets/riuretv.png.meta
+      213: 174765083929227688
+    second: depositphotos_265741874-stock-photo-single-tree-clipping-path-alpha_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,23 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:projeto1/projeto1/Assets/roda.png.meta
-      name: roda_0
+      name: depositphotos_265741874-stock-photo-single-tree-clipping-path-alpha_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 50
-        width: 68
-        height: 70
-========
-      name: riuretv_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2480
-        height: 3508
->>>>>>>> e755a658e512a87cadf497d0b4d1265c8ab5ba99:projeto1/projeto1/Assets/riuretv.png.meta
+        x: 10
+        y: 18
+        width: 565
+        height: 443
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,13 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:projeto1/projeto1/Assets/roda.png.meta
-      spriteID: 6ddf0c62ad5cdec00800000000000000
-      internalID: 931618238679285206
-========
-      spriteID: d976ac9e7102af450800000000000000
-      internalID: 6123241930442303389
->>>>>>>> e755a658e512a87cadf497d0b4d1265c8ab5ba99:projeto1/projeto1/Assets/riuretv.png.meta
+      spriteID: 8a13ebafae3ec6200800000000000000
+      internalID: 174765083929227688
       vertices: []
       indices: 
       edges: []
