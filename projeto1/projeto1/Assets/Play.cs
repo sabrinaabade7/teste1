@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     {
         // Movimento horizontal
         float inputX = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(inputX * speed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(inputX * speed, rb.linearVelocity.y);
 
         // Verificar se está tocando o chão
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
         // Pulo
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpHeight);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpHeight);
         }
     }
 
